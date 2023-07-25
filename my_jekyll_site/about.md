@@ -1,6 +1,7 @@
 ---
 title: About
 layout: default
+post_image: "images/pic13.jpg"
 ---
 
 <p> 
