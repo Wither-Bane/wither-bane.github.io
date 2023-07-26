@@ -2,10 +2,9 @@
 					<nav id="menu">
 						<h2>Menu</h2>
 						<ul>
-							<li><a href="index.html">Home</a></li>
-							<li><a href="about.html">About me</a></li>
-							<li><a href="writings.html">Stuff I've written</a></li>
-							<li><a href="blog.html">Blogs</a></li>
-                            <li><a href="blog-software-dev.html"> Blogs - Software development</a></li>
+							{% assign mypages = site.pages | sort: "order" %}
+                              {% for page in mypages %}
+                              <li><a href="{{ page.url | absolute_url }}">{{ page.title }}</a></li>
+                              {% endfor %}
 						</ul>
 					</nav>

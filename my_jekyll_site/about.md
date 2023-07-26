@@ -2,6 +2,7 @@
 title: About Me
 layout: page
 post_image: "images/pic13.jpg"
+order: 2
 ---
 
 <p> 
