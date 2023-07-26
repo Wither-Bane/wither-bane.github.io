@@ -1,6 +1,7 @@
 ---
-title: My Third Post
-layout: default
+title: My Third Post - The Joys of Jekyll and website building with GitHub Pages
+layout: page
+categories: software-dev
 ---
 
 # TL;DR

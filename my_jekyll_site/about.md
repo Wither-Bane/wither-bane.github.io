@@ -1,6 +1,6 @@
 ---
-title: About
-layout: default
+title: About Me
+layout: page
 post_image: "images/pic13.jpg"
 ---
 

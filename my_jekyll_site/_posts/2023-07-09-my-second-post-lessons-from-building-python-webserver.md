@@ -1,6 +1,7 @@
 ---
 title: My Second Post - Lessons from building a Python-based web server with the help of 'Zero To Mastery'
-layout: default
+layout: page
+categories: software-dev
 ---
 
 # TL;DR
