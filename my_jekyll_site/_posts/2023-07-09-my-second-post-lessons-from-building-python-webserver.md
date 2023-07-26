@@ -1,6 +1,7 @@
 ---
 title: My Second Post - Lessons from building a Python-based web server with the help of 'Zero To Mastery'
-layout: page
+layout: post
+post_image: "../../../../images/pic13.jpg"
 categories: software-dev
 ---
 

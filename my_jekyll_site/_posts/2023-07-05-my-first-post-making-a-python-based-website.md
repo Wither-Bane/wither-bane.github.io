@@ -1,6 +1,7 @@
 ---
 title: My First Post - Making a python based Website ... well more specifically, 'web server'
-layout: page
+layout: post
+post_image: "../../../../images/pic13.jpg"
 categories: software-dev
 ---
 

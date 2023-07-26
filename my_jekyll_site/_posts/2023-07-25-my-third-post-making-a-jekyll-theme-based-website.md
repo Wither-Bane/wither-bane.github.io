@@ -1,6 +1,7 @@
 ---
 title: My Third Post - The Joys of Jekyll and website building with GitHub Pages
-layout: page
+layout: post
+post_image: "../../../../images/pic13.jpg"
 categories: software-dev
 ---
 
