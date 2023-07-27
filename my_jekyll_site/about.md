@@ -1,7 +1,8 @@
 ---
 title: About Me
 layout: page
-post_image: "images/pic13.jpg"
+post_image: "images/me-in-a-suit.jpg"
+is_about_page: true
 order: 2
 ---
 
