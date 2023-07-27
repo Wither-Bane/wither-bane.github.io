@@ -1,8 +1,8 @@
 ---
 title: About Me
 layout: page
-post_image: "images/me-in-a-suit.jpg"
-is_about_page: true
+post_image: "{{ site.url }}/images/pic13"
+is_about_page: false
 order: 2
 ---
 
@@ -16,7 +16,7 @@ order: 2
 
 <p>
     <center>
-        I have studied at <b>Royal Holloway, University of London</b> for my undergraduate Master's degree in <b>Computer Science with Information Security</b>
+        <b>Royal Holloway, University of London, </b> Master's degree in <b>Computer Science with Information Security</b>
     </center>
 </p>
 
