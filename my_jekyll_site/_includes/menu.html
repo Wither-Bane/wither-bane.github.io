@@ -4,7 +4,17 @@
 						<ul>
 							{% assign mypages = site.pages | sort: "order" %}
                               {% for page in mypages %}
+
+                              {% if page.url == "/sitemap.xml" %}
+                              
+                              {% elsif page.url == "/feed.xml" %}
+                              
+                              {% else %}
+                              
                               <li><a href="{{ page.url | absolute_url }}">{{ page.title }}</a></li>
+                              
+                              {% endif %}
+                              
                               {% endfor %}
 						</ul>
 					</nav>
