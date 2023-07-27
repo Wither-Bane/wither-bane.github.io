@@ -9,6 +9,8 @@
                               
                               {% elsif page.url == "/feed.xml" %}
                               
+                              {% elsif page.url == "/assets/css/style.css" %}
+                              
                               {% else %}
                               
                               <li><a href="{{ page.url | absolute_url }}">{{ page.title }}</a></li>
