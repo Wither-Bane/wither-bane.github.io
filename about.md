@@ -1,8 +1,7 @@
 ---
 title: About Me
 layout: page
-post_image: "{{ site.url }}/images/pic13"
-is_about_page: false
+post_image: "/images/pic16-mountains.jpg"
 order: 2
 ---
 
